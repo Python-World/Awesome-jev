@@ -45,6 +45,9 @@ Open-source projects and repositories that use, integrate, experiment with, or d
 
 ### 🤖 AI Agents & Developer Tools
 - **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — Claude Code plugin and npm library using Jev to make context-compaction decisions while preserving important tool-call context. [Demo](https://x.com/tamarajtran/status/2100694549362553153/video/1)
+  
+- **[jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — An ultrafast browser agent using Jev for dynamic operation and element selection, with a small LLM used only for text generation.
+  
 
 ### 🔀 Routing & Decision Making
 
