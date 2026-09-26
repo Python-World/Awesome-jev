@@ -67,7 +67,7 @@ Open-source projects and repositories that use, integrate, experiment with, or d
 
 ### 🗃️ Data Processing & Curation
 
-- **[jev-curate]([[https://github.com/AkashPriyadarshan/jev-curate](https://github.com/AkashPriyadarshii/jev-curate)](https://github.com/AkashPriyadarshii/jev-curate))** — High-throughput data curation tool that uses typed Jev judgments to filter Parquet and JSONL data.
+- **[jev-curate](https://github.com/AkashPriyadarshii/jev-curate)** — High-throughput data curation tool that uses typed Jev judgments to filter Parquet and JSONL data.
 
 ### 🐘 Databases
 
