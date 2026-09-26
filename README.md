@@ -43,29 +43,39 @@ Resources maintained by or directly related to TypeSafe and Jev.
 Open-source projects and repositories that use, integrate, experiment with, or demonstrate Jev.
 
 
-### 🤖 AI Agents & Developer Tools
-- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — Claude Code plugin and npm library using Jev to make context-compaction decisions while preserving important tool-call context. [Demo](https://x.com/tamarajtran/status/2100694549362553153/video/1)
-  
-- **[jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — An ultrafast browser agent using Jev for dynamic operation and element selection, with a small LLM used only for text generation.
-  
 
-### 🔀 Routing & Decision Making
+### 🤖 AI Agents & Automation
 
+- **[jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — Browser agent that uses Jev to select browser actions and only calls a text model when text generation is needed.
+- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — Claude Code plugin and npm library using Jev to make context-compaction decisions while preserving important tool-call context.
 
-### 🛡️ Guardrails & Safety
+### 💹 Finance & Trading
 
+- **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — Trading bot experiment using Jev to make trading decisions on Monad.
 
-### 📚 RAG & Knowledge Systems
+### 🛡️ Security & Operations
 
+- **[jev-usecases](https://github.com/kenhuangus/jev-usecases)** — Security operations harness using Jev for incident triage and escalation decisions.
 
+### 📄 Document Intelligence
 
-### 🧩 Developer Tools
+- **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — Tax document classifier using Jev to classify IRS tax forms.
 
+### 🚁 Robotics & Simulation
 
+- **[jev-drone](https://github.com/RomanSlack/jev-drone)** — Simulated drone using camera input and Jev for real-time decision making.
 
-### 🎮 Demos & Fun Projects
+### 💡 Decision & Evaluation Tools
 
+- **[killmyidea](https://github.com/monteduro/killmyidea)** — Startup idea evaluation tool that uses Jev to assess ideas and return structured decisions.
 
+### 🗃️ Data Processing & Curation
+
+- **[jev-curate](https://github.com/AkashPriyadarshan/jev-curate)** — High-throughput data curation tool that uses typed Jev judgments to filter Parquet and JSONL data.
+
+### 🐘 Databases
+
+- **[pg-jev](https://github.com/realZachi/pg-jev)** — PostgreSQL extension that uses Jev to answer natural-language questions about database tables.
 ---
 
 ## Applications & Use Cases
