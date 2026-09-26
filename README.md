@@ -53,10 +53,6 @@ Open-source projects and repositories that use, integrate, experiment with, or d
 
 - **[jev-trader](https://github.com/jarrodwatts/jev-trader)** — Trading bot experiment using Jev to make trading decisions on Monad.
 
-### 🛡️ Security & Operations
-
-- **[jev-usecases](https://github.com/kenhuangus/jev-usecases)** — Security operations harness using Jev for incident triage and escalation decisions.
-
 ### 📄 Document Intelligence
 
 - **[tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier)** — Tax document classifier using Jev to classify IRS tax forms.
@@ -71,7 +67,7 @@ Open-source projects and repositories that use, integrate, experiment with, or d
 
 ### 🗃️ Data Processing & Curation
 
-- **[jev-curate](https://github.com/AkashPriyadarshan/jev-curate)** — High-throughput data curation tool that uses typed Jev judgments to filter Parquet and JSONL data.
+- **[jev-curate]([[https://github.com/AkashPriyadarshan/jev-curate](https://github.com/AkashPriyadarshii/jev-curate)](https://github.com/AkashPriyadarshii/jev-curate))** — High-throughput data curation tool that uses typed Jev judgments to filter Parquet and JSONL data.
 
 ### 🐘 Databases
 
