@@ -139,6 +139,10 @@ Have you built something unusual with Jev? [Contribute it!](#contributing)
 
 ---
 
+## Research & Papers
+
+* **[Jev in the Wild](https://arxiv.org/abs/2609.30216)** — Data-driven analysis of 2,170 public GitHub Jev projects, covering early ecosystem growth, application domains, and decision-use patterns.
+
 ---
 
 ## Contributing
