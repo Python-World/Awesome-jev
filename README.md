@@ -42,6 +42,9 @@ Resources maintained by or directly related to TypeSafe and Jev.
 
 Open-source projects and repositories that use, integrate, experiment with, or demonstrate Jev.
 
+### 🔍 Code Search & Repository Intelligence
+
+* **[jevgrep](https://github.com/dzhng/jevgrep)** — Natural-language code search for AI coding agents. Uses Jev to identify the most relevant files, declarations, and code excerpts in an unfamiliar repository, helping agents retrieve focused code context without loading the entire codebase.
 
 
 ### 🤖 AI Agents & Automation
